@@ -8,4 +8,4 @@
 [![](http://img.youtube.com/vi/-Opu0UAH1ZA/0.jpg)](http://www.youtube.com/watch?v=-Opu0UAH1ZA "")
 
 ### Image of Page
-[![] (./assets/TeamProfileScreenshot.png?raw=true)]
+![](/assets/TeamProfileScreenshot.png?)
